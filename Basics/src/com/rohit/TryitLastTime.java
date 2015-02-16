@@ -1,4 +1,4 @@
-package com.jdbc;
+package com.rohit;
 
 import java.sql.*; 
 import java.awt.*;
